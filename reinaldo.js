@@ -8,7 +8,7 @@ console.log("hola reinaldo")
 // hola todo bien bruno !
 
 
-
+// hola
 
 
 // for (let trak = 0; trak <= 7; trak++){
