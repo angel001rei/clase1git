@@ -1,5 +1,6 @@
 const prompt = require('prompt-sync')()
 
+console.log("hola reinaldo")
 // for (let trak = 0; trak <= 7; trak++){
 //     console.log(trak)
 // }
